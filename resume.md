@@ -1,71 +1,104 @@
-Markdown Resumé
+Resumé
 ===============
 
-[Markdown](https://raw.github.com/mwhite/resume/master/resume.md) -> [PDF](https://raw.github.com/mwhite/resume/master/resume.pdf), [HTML](http://mwhite.github.com/resume), and more
-<http://github.com/mwhite/resume>
-
-Interests
----------
-
-*   Creating beautiful resumés from simple Markdown documents
-
-
-Work Experience
----------------
-
-*   **Word Processor** (Redmond, WA)
-
-    Junior Resumé Maker, 2006 - 2007
-
-    -   Intermingled presentation and content
-    -   Styling was a pain, so either didn't do it or found a half-decent
-        template and didn't mess with it
-
-*   **\LaTeX\ + pdflatex**
-
-    Senior Resumé Maker, 2008 - 2010
-
-    -   Edited verbose \LaTeX\ documents in a text editor
-    -   Mixed content and presentation to achieve pixel-perfection
-    -   Installed and configured the unusual TeX setups required by the
-        best-looking \LaTeX\ resumés
-
-*   **LinkedIn, StackOverflow Careers, vizualize.me, etc**
-
-    Web Resumé Intern, August 2010
-
-    -   Entered data, adapting to different data models and formatting
-        limitations
-    -   Attempted to customize PDF exports and remove default resumé elements,
-        to no avail
-
-*   **Markdown with Pandoc**
-
-    Resumé Architect, February 2011 - present
-
-    -   Write in one format (Markdown), convert to many formats (PDF, HTML, ODT,
-        DOCX, and more)
-    -   Style HTML output with CSS and PDF output with a custom \LaTeX\ header
-    -   Use a simple pre-processor to define per-format operations on the
-        Markdown input or its parts, such as moving contact information to the
-        top right of the page in both HTML and PDF output.
-    -   Use a text-based resumé when needed in a pinch
-    -   Use version control, including free hosting on Github
+<http://anupcshan.in/resume>
 
 
 Education
 ---------
 
-*   **Github University** (World Wide Web)
+*   **University of California, San Diego**
 
-    B.S. in Submodules, May 2012
+    Master of Science, Computer Science, Sep 2013 - Present
+
+    - Graduate Teaching Assistant: CS140 - Components and Design of Digital Systems
+    - Graduate Teaching Assistant: CS30 - Computer Organization and Systems Programming
+    - Graduate Teaching Assistant: CS123 - Computer Networks
+
+*   **National Institute of Technology, Karnataka, India**
+
+    Bachelor of Technology, Computer Engineering, 2005 - 2009
+
+    - Undergraduate Thesis: Modelling Giotto programs in UPPAAL
+
+
+Work Experience
+---------------
+
+*   **Google Inc.** (Mountain View, CA)
+
+    Software Engineer Intern, Chrome OS Kernel, Jun 2014 - Present
+
+    -   Working on kernel-based power optimizations on Chromebooks
+
+*   **Google Inc.** (Mountain View, CA)
+
+    Software Engineer in Test, Adwords Frontend, Oct 2011 - Aug 2013
+
+    -   Migrated frontend integration test infrastructure to use
+        the new F1-based backend from the existing MySQL system.
+    -   Enhanced tests metrics to allow for easier profiling and
+        diagnosis of test results.
+
+*   **Google India Pvt Ltd.** (Hyderabad, India)
+
+    Software Engineer in Test, Gmail backend, Mar 2011 - Sep 2011
+
+    -   Built a dashboard to track project progress using bug data
+        and forecast project iteration completion dates.
+
+*   **Oracle India Pvt Ltd.** (Bangalore, India)
+
+    Software Engineer, Beehive Conferencing, Jul 2009 - Mar 2011
+
+    -   Co-developed a web application to schedule and join web conferences
+        http://meet.oracle.com
+
+    Software Engineer, Beehive Bug Metrics
+
+    -   Designed and developed a web application to generate highly
+        customizable, interactive graphs based on historical bug data
+        to identify trends.
+
+*   **Linux Technology Center IBM India Software Labs** (Bangalore, India)
+
+    Summer Intern, May 2008 - July 2008
+
+    -   Developed a fault-injection package to simulate errors in the
+        Linux kernel’s memory subsystem.
 
 
 Skills
 ------
 
-*   Very experienced with Python, Markdown, \LaTeX
+*   Languages: C++, Java, Python, Javascript, Go.
 
-*   Familiar with GNU Make, bash
+*   Technologies: Linux/Unix, Web Programming, Computer Networking
 
 
+Hobby Projects
+--------------
+
+*   **BuddyFS**
+
+    - Decentralized filesystem, written in Golang, built on top of Chord-based distributed key-value store.
+    - Github projects - [GoBuddyFS](https://github.com/buddyfs/gobuddyfs) [BuddyStore](https://github.com/buddyfs/buddystore)
+    - Won the [Flipboard prize at LA Hacks](http://challengepost.com/software/buddyfs) for proof-of-concept project in Python.
+
+*   **Inscription**
+
+    - Scaled custom programming contest judge software to run across a cluster of machines
+    - Provided fault resilience and significantly improved performance of batch recompilation
+    - Deployed in Inscription 2009, an international online programming contest including participation of over 400 teams
+
+*   **Linux kernel patch to work around faulty RAM blocks on x86_64**
+
+
+Extracurricular Activities
+--------------------------
+
+*   **National Institute of Technology, Karnataka**
+    -   5th place in ACM ICPC Asia Regionals, December 2007
+    -   Involved in the setting up and administration of IBM Open Power Lab at NITK
+    -   Convener, Computer Events, Engineer 2009 - NITK’s annual technical symposium
+    -   Technical Coordinator, Computer Society of India, NITK student branch
